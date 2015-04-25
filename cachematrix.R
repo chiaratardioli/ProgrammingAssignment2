@@ -1,6 +1,6 @@
 ##
 ## Caching the Inverse of a Matrix
-## R programming (MOOCS) - Peer Assignment 1.
+## Programming Assignment 2 - MOOCS ID: rprog-013.
 ## 25/04/2015 - CT
 
 ## Create a special "matrix" object that can cache its inverse.
